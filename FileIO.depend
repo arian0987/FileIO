@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1359742013 source:c:\users\jherick27\desktop\cbbbb\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359714294 source:c:\users\lenovo\desktop\codeblocks\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359432592 source:f:\123\arararwraw\3\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359544362 source:f:\12345\arararwraw\3\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359622414 source:f:\aw\arararwraw\3\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359680014 source:e:\aw\arararwraw\3\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1360027750 source:f:\aw\new folder\3\fileio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
